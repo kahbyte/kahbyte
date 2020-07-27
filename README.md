@@ -5,6 +5,7 @@
 [![Github.io Badge](https://img.shields.io/badge/-Github.io-000?style=flat-square&logo=Github&logoColor=white&link=https://kahbyte.github.com)](https://kahbyte.github.com)
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-/kahbyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kahbyte/)](https://www.linkedin.com/in/kahbyte/)
+[![Telegram Badge](https://img.shields.io/badge/-@kahbyte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kahbyte)  
 [![Twitter Badge](https://img.shields.io/badge/-@kahbyte-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kahbyte)](https://twitter.com/kahbyte)
 [![Instagram Badge](https://img.shields.io/badge/-@kahbyte-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/kahbyte)](https://instagram.com/kahbyte)
 
