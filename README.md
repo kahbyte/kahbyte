@@ -6,6 +6,7 @@
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-/kahbyte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kahbyte/)](https://www.linkedin.com/in/kahbyte/)
 [![Twitter Badge](https://img.shields.io/badge/-@kahbyte-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kahbyte)](https://twitter.com/kahbyte)
+[![Instagram Badge](https://img.shields.io/badge/-@kahbyte-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/kahbyte)](https://instagram.com/kahbyte)
 
 <!--
 **kahbyte/kahbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
