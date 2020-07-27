@@ -1,4 +1,5 @@
-### print("👋🏾, 🌎") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+### print("👋🏾, 🌎") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="25px">
+
 ![image](https://github.com/kahbyte/kahbyte/blob/master/wide-bedroom.gif)
 <!--
 [![Github.io Badge](https://img.shields.io/badge/-Github.io-000?style=flat-square&logo=Github&logoColor=white&link=https://kahbyte.github.com)](https://kahbyte.github.com)
