@@ -8,6 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@kahbyte-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kahbyte)](https://twitter.com/kahbyte)
 [![Instagram Badge](https://img.shields.io/badge/-@kahbyte-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/kahbyte)](https://instagram.com/kahbyte)
 [![Telegram Badge](https://img.shields.io/badge/-@kahbyte-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kahbyte)](https://t.me/kahbyte)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/wj7xrlikjix2lpko7fvzb00we?si=QRAzsehoQieEimOd8dQsrg)](https://open.spotify.com/user/wj7xrlikjix2lpko7fvzb00we?si=QRAzsehoQieEimOd8dQsrg)
 
 <!--
 **kahbyte/kahbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
