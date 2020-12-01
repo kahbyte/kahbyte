@@ -5,7 +5,7 @@
 [![Github.io Badge](https://img.shields.io/badge/-Github.io-000?style=flat-square&logo=Github&logoColor=white&link=https://kahbyte.github.com)](https://kahbyte.github.com)
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-what_I've_been_through-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kahbyte/)](https://www.linkedin.com/in/kahbyte/)
-[![Twitter Badge](https://img.shields.io/badge/-what_i_think_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kahbyte)](https://twitter.com/kahbyte)
+[![Twitter Badge](https://img.shields.io/badge/-what_I _think_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kahbyte)](https://twitter.com/kahbyte)
 [![Instagram Badge](https://img.shields.io/badge/-what_I_See_-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/kahbyte)](https://instagram.com/kahbyte)
 [![Spotify Badge](https://img.shields.io/badge/-what_I_Like-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/wj7xrlikjix2lpko7fvzb00we?si=QRAzsehoQieEimOd8dQsrg)](https://open.spotify.com/user/wj7xrlikjix2lpko7fvzb00we?si=QRAzsehoQieEimOd8dQsrg)
 [![Telegram Badge](https://img.shields.io/badge/-Contact_me-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kahbyte)](https://t.me/kahbyte)
