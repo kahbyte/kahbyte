@@ -1,5 +1,13 @@
 ### print("👋🏾, 🌎")
 
+So... My latest Apple Developer Academy projects are currently private, and my last year projects are kind of a mess because it was our first year of iOS development, u know... 
+
+So, I've been currently working on a 3D game using Swift and Scenekit, you can check it out here: 
+
+And on my personal projects, I've been studying SwiftUI, View Code, MVVM and Viper architectures and Unit testing, so soon I might come up with some nice apps to make this Github be as great as it can be. 
+
+See ya <3 
+
 
 ![image](https://github.com/kahbyte/kahbyte/blob/master/wide-bedroom.gif)
 <!--
