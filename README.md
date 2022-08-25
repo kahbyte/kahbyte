@@ -1,4 +1,4 @@
-### print("👋🏾, 🌎")
+### Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady" width="27">
 
 So... My latest Apple Developer Academy projects are currently private, and my last year projects are kind of a mess because it was our first year of iOS development, u know... 
 
@@ -9,7 +9,7 @@ And as far for my personal projects, I've been studying SwiftUI with Stanford le
 See ya <3 
 
 
-![image](https://github.com/kahbyte/kahbyte/blob/master/wide-bedroom.gif)
+![image](https://github.com/kahbyte/kahbyte/blob/master/assets/wide-bedroom.gif)
 <!--
 [![Github.io Badge](https://img.shields.io/badge/-Github.io-000?style=flat-square&logo=Github&logoColor=white&link=https://kahbyte.github.io)](https://kahbyte.github.io)
 -->
