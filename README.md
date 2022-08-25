@@ -1,4 +1,4 @@
-### Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady" width="27">
+### Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady.gif" width="27">
 
 So... My latest Apple Developer Academy projects are currently private, and my last year projects are kind of a mess because it was our first year of iOS development, u know... 
 
