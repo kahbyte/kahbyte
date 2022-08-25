@@ -1,5 +1,7 @@
 ### Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady.gif" width="27">
 
+<img align="left" src="https://github.com/anathayna/kahbyte/blob/master/assets/ramen.gif"/>
+
 So... My latest Apple Developer Academy projects are currently private, and my last year projects are kind of a mess because it was our first year of iOS development, u know... 
 
 So, I've been currently working on a 3D game using Swift and Scenekit, you can check it out [here](https://apps.apple.com/br/app/unseenity/id1572334177)
