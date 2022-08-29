@@ -1,12 +1,12 @@
 ### Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady.gif" width="27">
 
-<img align="left" src="https://github.com/kahbyte/kahbyte/blob/master/assets/ramen.gif"/>
+<!-- <img align="left" src="https://github.com/kahbyte/kahbyte/blob/master/assets/ramen.gif"/> -->
 
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/pepeHack.gif" width="30"><em> iOS Developer at <a href="https://www.linkedin.com/company/luizalabs/">Luizalabs</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/peepoJuice.gif" width="30"/> <em>Computer Science student</em></p>
-<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/wow.gif" width="25"/> <em>Apple Developer Academy alumni</em></p>
-<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/cute.gif" width="25"/> <em>In absolute love with games, tech, sports, science and poetry</em></p>
-<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/keyboard.gif" width="25"/> <em>Custom keyboards enthusiast</em></p>
+<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/wow.gif" width="30"/> <em>Apple Developer Academy alumni</em></p>
+<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/cute.gif" width="30"/> <em>In absolute love with games, tech, sports, science and poetry</em></p>
+<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/keyboard.gif" width="30"/> <em>Custom keyboards enthusiast</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/tea.gif" width="30"/> <em>Your average tea enjoyer</em></p>
 
 ![image](https://github.com/kahbyte/kahbyte/blob/master/assets/wide-bedroom.gif)
