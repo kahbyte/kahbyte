@@ -9,7 +9,7 @@
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/keyboard.gif" width="30"/> <em>Custom keyboards enthusiast</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/tea.gif" width="30"/> <em>Your average tea enjoyer</em></p>
 
-<!-- ![image](https://github.com/kahbyte/kahbyte/blob/master/assets/wide-bedroom.gif) -->
+![image](https://github.com/kahbyte/kahbyte/blob/master/assets/wide-bedroom.gif)
 <!--
 [![Github.io Badge](https://img.shields.io/badge/-Github.io-000?style=flat-square&logo=Github&logoColor=white&link=https://kahbyte.github.io)](https://kahbyte.github.io)
 -->
