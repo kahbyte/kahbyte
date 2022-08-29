@@ -1,6 +1,6 @@
-### Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady.gif" width="27">
+## Hello, World! <img src="https://github.com/kahbyte/kahbyte/blob/master/assets/mlady.gif" width="27">
 
-<!-- <img align="left" src="https://github.com/kahbyte/kahbyte/blob/master/assets/ramen.gif"/> -->
+<img align="left" src="https://github.com/kahbyte/kahbyte/blob/master/assets/tableHit.gif"/> 
 
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/pepeHack.gif" width="30"><em> iOS Developer at <a href="https://www.linkedin.com/company/luizalabs/">Luizalabs</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/peepoJuice.gif" width="30"/> <em>Computer Science student</em></p>
