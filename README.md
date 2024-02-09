@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github.com/kahbyte/kahbyte/blob/master/assets/chicken.gif" width="300"/>
 
-<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/pepeHack.gif" width="30"><em> iOS Developer at <a href="https://www.linkedin.com/company/beesbrasil/">Bees</em></p>🍻
+<p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/pepeHack.gif" width="30"><em> iOS Developer at <a href="https://www.linkedin.com/company/beesbrasil/">Bees🍻</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/peepoJuice.gif" width="30"/> <em>Computer Science student</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/wow.gif" width="30"/> <em>Apple Developer Academy alumni</em></p>
 <p></a><img src="https://github.com/kahbyte/kahbyte/blob/master/assets/cute.gif" width="30"/> <em>Obsessed  with games, tech, sports, science and poetry</em></p>
